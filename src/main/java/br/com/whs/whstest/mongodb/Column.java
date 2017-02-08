@@ -1,4 +1,4 @@
-package br.com.whs.whstest;
+package br.com.whs.whstest.mongodb;
 
 public class Column {
 	
